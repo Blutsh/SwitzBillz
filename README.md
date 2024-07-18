@@ -16,11 +16,11 @@ Automatically generate and send QR bills with orders, supporting 4 languages and
 ## 🛠️ Installation
 
 The installation process is straightforward:
-
-1. **Upload / Install the SwitzBillz module** to your PrestaShop.
-2. **Install and activate the module**.
-3. **Configure the module settings** to customize fields and messages as needed (Mandatory step).
-4. **Save the configuration**, and the module is ready to use.
+1. ***Retrieve the [module zip file](https://github.com/Blutsh/SwitzBillz/releases/tag/1.0.0)***
+2. **Upload / Install the SwitzBillz module** to your PrestaShop.
+3. **Install and activate the module**.
+4. **Configure the module settings** to customize fields and messages as needed (Mandatory step).
+5. **Save the configuration**, and the module is ready to use.
 
 **Notes:**
 - Use the **Preview** feature in the `Payment > SwitzBillz > Configure` section to get a taste of what your QR invoices will look like. 
@@ -37,6 +37,12 @@ It may be compatible with other versions, but they have not been tested.
 ## 🎥 Demo
 
 [Watch the demo](https://www.youtube.com/watch?v=SjVPBJPedGw)
+
+## ⚠️ Troubleshooting
+
+### Upload Error
+
+If you encounter an error saying "Upload failed. Your uploaded file might exceed the upload_max_filesize and the post_max_size directives in php.ini," this means the file size exceeds the server's upload limits. Please check your server configuration to resolve this issue.
 
 ## 📜 License & Credits
 
