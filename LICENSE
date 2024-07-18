@@ -672,3 +672,11 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+Additional Terms:
+
+1. Restriction on Marketplace Publication:
+   No one may publish or distribute this software or any derivative work based on it in the PrestaShop marketplace or any other similar marketplace without making significant modifications to the code. Significant modifications must include more than minor cosmetic changes and must add substantial functionality or improvements.
+
+This additional term is an exception to the GNU General Public License and prevails over any conflicting provisions of the GNU General Public License.
+
