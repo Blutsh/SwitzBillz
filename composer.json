@@ -1,0 +1,28 @@
+{
+  "name": "blutch/switzbillz",
+  "description": "Prestashop module to add Swiss qr bill to Invoices",
+  "authors": [
+      {
+          "name": "blutch",
+          "email": "compote.interroge.0i@icloud.com"
+      }
+  ],
+  "require": {
+      "php": ">=7.5.0",
+      "sprain/swiss-qr-bill": "^4.0",
+    "karriere/pdf-merge": "^3.1"
+  },
+  "autoload": {
+      "psr-4": {
+          "PrestaShop\\Module\\SwitzBillz\\": "src/"
+      },
+      "exclude-from-classmap": []
+  },
+  "config": {
+      "preferred-install": "dist",
+      "prepend-autoloader": false
+  },
+  "type": "prestashop-module",
+  "author": "Blutch",
+  "license": "GPL-3"
+}

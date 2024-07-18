@@ -1,0 +1,8 @@
+switzbillz_generate_pdf:
+    path: switzbillz/order/{orderId}/generate-pdf
+    methods: [GET]
+    defaults:
+        _controller: 'PrestaShop\Module\SwitzBillz\Controller\SwitzBillzAdminPdfController::generatePDF'
+    requirements:
+        orderId: \d+
+  

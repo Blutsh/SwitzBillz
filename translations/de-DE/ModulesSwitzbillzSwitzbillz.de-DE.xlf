@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin1506cfze0w3cicmesbh" source-language="en-US" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="4041b5b10d675925150ed073819d471d">
+        <source>SwitzBillz</source>
+        <target>SwitzBillz</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7dce2af549ca6103dfb5c9a39051fab1">
+        <source>Add Swiss QR Invoices to your shop</source>
+        <target>Fügen Sie Ihrem Shop Schweizer QR-Rechnungen hinzu</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="876f23178c29dc2552c0b48bf23cd9bd">
+        <source>Are you sure you want to uninstall?</source>
+        <target>Sind Sie sicher, dass Sie deinstallieren möchten?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d09c6d901efd3641d24bd7950b120e91">
+        <source>QR Bill Sent</source>
+        <target>QR-Rechnung gesendet</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="329688debf36c3bebd596af47e9b1c4a">
+        <source>Download QR Bill</source>
+        <target>QR-Rechnung herunterladen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9b855b036e7ea0c0c58eeffc133330b1">
+        <source>View QR Bill</source>
+        <target>QR-Rechnung anzeigen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e820b93029d245df0138023ec376b7f5">
+        <source>Pay by QR Bill</source>
+        <target>Mit QR-Rechnung bezahlen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c888438d14855d7d96a2724ee9c306bd">
+        <source>Settings updated</source>
+        <target>Einstellungen aktualisiert</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="235c35983e5ce641aad31eb302e3b29b">
+        <source><![CDATA[Please fill in the form below to configure your company details and generate a QR Bill. Make sure to preview & Validate the QR Bill before saving.]]></source>
+        <target><![CDATA[Bitte füllen Sie das untenstehende Formular aus, um Ihre Firmendaten zu konfigurieren und eine QR-Rechnung zu erstellen. Stellen Sie sicher, dass Sie die QR-Rechnung vor dem Speichern in der Vorschau anzeigen und validieren.]]></target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f4f70727dc34561dfde1a3c529b6205c">
+        <source>Settings</source>
+        <target>Einstellungen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="625033e0e047aa7262a601e2f1f5c3f8">
+        <source>Your Company Name</source>
+        <target>Ihr Firmenname</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="dac41d50c9cbe6da4d9a7de021fa05ff">
+        <source>Enter your company name.</source>
+        <target>Geben Sie Ihren Firmennamen ein.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="46be1b558f43a485b1aacfcb6f8a52b0">
+        <source>Your Company Street</source>
+        <target>Ihre Firmenstraße</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c5b2a20943858fb9d76300342997741f">
+        <source>Enter your company street address.</source>
+        <target>Geben Sie Ihre Firmenadresse ein.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6d7e1c2b72daf4114b864f03770f8338">
+        <source>Your Company City</source>
+        <target>Ihre Firmenstadt</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="17d2cf61c583aaefb649d22dc73ae2fb">
+        <source>Enter your company city.</source>
+        <target>Geben Sie Ihre Firmenstadt ein.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8dbe93ee883eeb1ea6c9db8e4b9cfef0">
+        <source>Your Company Country</source>
+        <target>Ihr Firmenland</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e54a864bda1f8eb77e48effc9c69e7c0">
+        <source>Select your company country.</source>
+        <target>Wählen Sie Ihr Firmenland aus.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="175fecfbaae4ec35c402bc912f5d920b">
+        <source>QR IBAN</source>
+        <target>QR IBAN</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a40f1935d78a9bc1d85f00685cfc53a3">
+        <source>Enter your QR IBAN.</source>
+        <target>Geben Sie Ihre QR-IBAN ein.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b587a95f8a1d4827fbd7da7a10ec16d5">
+        <source>QR-IID</source>
+        <target>QR-IID</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f042da0f857d2e1319da79474b45c9fb">
+        <source>Enter your QR-IID. (Leave empty if Postfinance QR-IBAN)</source>
+        <target>Geben Sie Ihre QR-IID ein. (Leer lassen, wenn Postfinance QR-IBAN)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="092bf78f9c97ba171b8232ddff585392">
+        <source>Additional Information</source>
+        <target>Zusätzliche Informationen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="49b89c3dffc46c49034b5141782054a8">
+        <source>Invoice Unique Reference</source>
+        <target>Eindeutige Rechnungsreferenz</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="90589c47f06eb971d548591f23c285af">
+        <source>Custom</source>
+        <target>Benutzerdefiniert</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="df2dd0471c5c5aab7f5bc4f79493d215">
+        <source>Select additional information type.</source>
+        <target>Wählen Sie den Typ der zusätzlichen Informationen aus.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a4077afe058e4b6b64001d14658411cb">
+        <source>Custom Additional Information</source>
+        <target>Benutzerdefinierte zusätzliche Informationen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f2a7d07baf627210ac819cf69f0ed752">
+        <source>Enter custom additional information.</source>
+        <target>Geben Sie benutzerdefinierte zusätzliche Informationen ein.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b1b52b325eb6808610819cb8eecdd922">
+        <source>Reference Type</source>
+        <target>Referenztyp</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d79cf3f429596f77db95c65074663a54">
+        <source>Order ID</source>
+        <target>Bestell-ID</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4e065ba1bec1d62b2d5450256612fa96">
+        <source>Invoice Number</source>
+        <target>Rechnungsnummer</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="172d3bdc4f117b195e325069e90c6830">
+        <source>Custom Reference</source>
+        <target>Benutzerdefinierte Referenz</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d3060b219a74e04323ffb8c9753a159c">
+        <source>Select the reference type to use.</source>
+        <target>Wählen Sie den zu verwendenden Referenztyp aus.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="23f27305cc48b678744bda1659d93ff5">
+        <source>Enter custom reference.</source>
+        <target>Geben Sie eine benutzerdefinierte Referenz ein.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="678fcfb670067186c7cd160c68d22000">
+        <source><![CDATA[Preview & Validate QR Bill]]></source>
+        <target><![CDATA[Vorschau & Validierung der QR-Rechnung]]></target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="6cc6f3f164d7a88d1e32b0ac49b2c9a7">
+        <source>Pay with QR Bill</source>
+        <target>Mit QR-Rechnung bezahlen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fab1ef8f300d2d040417f55b399c0325">
+        <source>A QR Bill will be sent to you by e-mail, you can also download it from your order history.</source>
+        <target>Eine QR-Rechnung wird Ihnen per E-Mail zugesandt, Sie können sie auch aus Ihrer Bestellhistorie herunterladen.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c1fda80bf1617d7aa5e2094e84353d76">
+        <source>QR Bill</source>
+        <target>QR-Rechnung</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="27e4b00755f586f0feaa722d2ebbabca">
+        <source>The QR Bill has been attached to the confirmation e-mail, it is also available in your order history details.</source>
+        <target>Die QR-Rechnung wurde der Bestätigungs-E-Mail angehängt, sie ist auch in Ihren Bestelldetails verfügbar.</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
